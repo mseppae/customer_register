@@ -1,0 +1,72 @@
+<customers>
+   <customer xmlns="http://www.arcusys.fi/customer-example">
+      <name>John Doe</name>
+      <note>A test user</note>
+      <address>
+         <type>TEST_ADDRESS</type>
+         <street>Teststreet 5</street>
+         <street>PL 101</street>
+         <postalCode>10111</postalCode>
+         <town>Test city</town>
+      </address>
+      <phone>
+         <type>+491011000101010</type>
+         <value>TEST_PHONE</value>
+      </phone>
+      <phone>
+         <type>+491011000101020</type>
+         <value>HOME_PHONE</value>
+      </phone>
+      <email>
+         <type>test@test.mail.com</type>
+         <value>TEST_MAIL</value>
+      </email>
+   </customer>
+   <customer xmlns="http://www.arcusys.fi/customer-example">
+      <name>Donald Duck</name>
+      <note>Donald duck wears a blue hat and no trousers.
+He has 3 nephews.</note>
+      <address>
+         <type>VISITING_ADDRESS</type>
+         <street>Duck Street 13</street>
+         <street>PO Box 124</street>
+         <street>PO Box 124</street>
+         <street>Duck Street 13</street>
+         <postalCode>101010</postalCode>
+         <town>Duckburg</town>
+      </address>
+      <phone>
+         <type>WORK_PHONE</type>
+         <value>131313131313</value>
+      </phone>
+      <email>
+         <type>WORK_EMAIL</type>
+         <value>donald.duck@duckburg.quack</value>
+      </email>
+   </customer>
+   <customer xmlns="http://www.arcusys.fi/customer-example">
+      <name>Uncle Scrooge</name>
+      <note>Uncle Scrooge is the richest duck in duckburg</note>
+      <address>
+         <type>HOME_ADDRESS</type>
+         <street>Money Street 100</street>
+         <street>P.O. Box 1230</street>
+         <street>P.O. Box 1230</street>
+         <street>Money Street 100</street>
+         <street>Money Street 100</street>
+         <street>P.O. Box 1230</street>
+         <street>P.O. Box 1230</street>
+         <street>Money Street 100</street>
+         <postalCode>123</postalCode>
+         <town>Duckburg</town>
+      </address>
+      <phone>
+         <type>MOBILE_PHONE</type>
+         <value>MOBILE_PHONE</value>
+      </phone>
+      <email>
+         <type>PRIVATE_EMAIL</type>
+         <value>PRIVATE_EMAIL</value>
+      </email>
+   </customer>
+</customers>

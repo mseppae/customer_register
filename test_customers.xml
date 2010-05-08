@@ -1,0 +1,25 @@
+<customers>
+   <customer xmlns="http://www.arcusys.fi/customer-example">
+      <name>John Doe</name>
+      <note>A test user</note>
+      <address>
+         <type>TEST_ADDRESS</type>
+         <street>PL 101</street>
+         <street>Teststreet 5</street>
+         <postalCode>10111</postalCode>
+         <town>Test city</town>
+      </address>
+      <phone>
+         <type>TEST_PHONE</type>
+         <value>+491011000101010</value>
+      </phone>
+      <phone>
+         <type>HOME_PHONE</type>
+         <value>+491011000101020</value>
+      </phone>
+      <email>
+         <type>TEST_MAIL</type>
+         <value>test@test.mail.com</value>
+      </email>
+   </customer>
+</customers>
