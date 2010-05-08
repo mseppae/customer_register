@@ -1,1 +1,8 @@
 Java sample code for a simple CRUD application with xml loading and saving.
+
+Some info:
+This is a sample code project programmed in Eclipse.
+Uses Maven for needed Libraries.
+Use Eclipse for test running and programs test running.
+
+Prerequisities: Java 1.5, Maven 2, Eclipse
